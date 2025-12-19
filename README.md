@@ -7,15 +7,13 @@
 
 * 🦇 I’m looking to collaborate on **Self-hosted projects, media servers, and nocturnal experiments.**
 
-* 🤝 I’m looking for help with **finding work that respects vampire hours.**
-
 * 👨‍💻 My nocturnal musings: [Instagram](https://www.instagram.com/thecountdracula_/)
 
 * 💬 Ask me about **Linux, Python, Bash, media servers, and self-hosted curiosities.**
 
 * 📫 How to reach me **[josephelmahalawy@gmail.com](mailto:josephelmahalawy@gmail.com)**
 
-* ⚡ Fun fact **I thrive under the moon — vampire hours, perfectly normal.**
+* ⚡ Fun fact **I happen to be a vampire.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
