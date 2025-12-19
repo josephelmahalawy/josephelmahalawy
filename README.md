@@ -1,21 +1,21 @@
-<h1 align="center">Hello world! i am Joseph</h1>
-<h3 align="center">A developer of many interests, and frequent identity crises.</h3>
+<h1 align="center">Hello world! I am Joseph</h1>
+<h3 align="center">A developer of many interests, often active in the witching hours.</h3>
 
-- 🔭 I’m currently working on **Automating boring tasks and refining my late-night coding setup.**
+* 🔭 I’m currently working on **Automating tedious tasks and perfecting my nocturnal coding rituals.**
 
-- 🌱 I’m currently learning **Advanced Linux,AI, scripting, and automation of all things trivial and complex.**
+* 🌱 I’m currently learning **Advanced Linux, AI, scripting, and automation of all things trivial and arcane.**
 
-- 🦇 I’m looking to collaborate on **Self-hosted projects, media servers, and experiments.**
+* 🦇 I’m looking to collaborate on **Self-hosted projects, media servers, and nocturnal experiments.**
 
-- 🤝 I’m looking for help with **finding work**
+* 🤝 I’m looking for help with **finding work that respects vampire hours.**
 
-- 👨‍💻 My personal Instagram account [https://www.instagram.com/thecountdracula_/](https://www.instagram.com/thecountdracula_/)
+* 👨‍💻 My nocturnal musings: [Instagram](https://www.instagram.com/thecountdracula_/)
 
-- 💬 Ask me about **Linux, Python, Bash, media servers, self-hosted setups.**
+* 💬 Ask me about **Linux, Python, Bash, media servers, and self-hosted curiosities.**
 
-- 📫 How to reach me **josephelmahalawy@gmail.com**
+* 📫 How to reach me **[josephelmahalawy@gmail.com](mailto:josephelmahalawy@gmail.com)**
 
-- ⚡ Fun fact **I'm a vampire**
+* ⚡ Fun fact **I thrive under the moon — vampire hours, perfectly normal.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
