@@ -22,7 +22,3 @@
 <p align="left">
 <a href="https://instagram.com/thecountdracula_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecountdracula_" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephelmahalawy&show_icons=true&locale=en" alt="josephelmahalawy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephelmahalawy&" alt="josephelmahalawy" /></p>
