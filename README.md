@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own media app like jellyfin<br>💬 Ask me about 🏠 Homelabbing | 🔧 Self-hosting | 🤖 AI experiments & tinkering<br>⚡ i have been coding since i was 15<br>🌐I'm a polyglot Fluent in 🇬🇧 English 🇹🇷 Turkish 🇪🇬 Arabic  and B2 in 🇫🇷 French<br>
+🔭 I’m currently working on my own media app like jellyfin<br>💬 Ask me about 🏠 Homelabbing | 🔧 Self-hosting | 🤖 AI experiments & tinkering<br>⚡ Fun fact about me i have been coding since i was 15<br>🌐I'm a polyglot Fluent in 🇬🇧 English 🇹🇷 Turkish 🇪🇬 Arabic  and B2 in 🇫🇷 French<br>
 
 
 ## 🌐 Socials:
